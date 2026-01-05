@@ -1,0 +1,40 @@
+{
+  "0xf5d72c4d99e89736c342e7ff786db88b933de4624e8bfbe13ec681856912e295": {
+    "fullname": "Zulpadli Harahap",
+    "institution": "Universitas Islam Indonesia",
+    "program": "Informatika",
+    "activity": "Blockchain Workshop",
+    "category": "Seminar",
+    "issuedAt": "2026-01-05"
+  },
+  "0x5cc822f3e578487b16abc2bfe1f574dfc1b17e983f44a88c935e2b21a06077a9": {
+    "name": "Blockchain Workshop Certificate",
+    "description": "Official academic certificate",
+    "attributes": [
+      {
+        "trait_type": "Full Name",
+        "value": "Zulpadli Harahap"
+      },
+      {
+        "trait_type": "Institution",
+        "value": "Universitas Islam Indonesia"
+      },
+      {
+        "trait_type": "Program",
+        "value": "Informatika"
+      },
+      {
+        "trait_type": "Activity",
+        "value": "Blockchain Workshop"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Seminar"
+      },
+      {
+        "trait_type": "Issued At",
+        "value": "2026-01-05"
+      }
+    ]
+  }
+}
